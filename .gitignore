@@ -1,0 +1,23 @@
+# C# build intermediates
+Source/**/bin/
+Source/**/obj/
+
+# Local IDE settings
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Generated debug symbols
+1.6/Assemblies/*.pdb
+
+# Packaged release output
+dist/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+REQUIREMENTS.md

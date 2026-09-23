@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Buff Watermill</name>
+  <author>Mint</author>
+  <packageId>mint.buffwatermill</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>Adjusts the power output of watermill generators from the mod settings.</description>
+</ModMetaData>
